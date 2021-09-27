@@ -20,6 +20,7 @@ a:hover { text-decoration: none; }
 .menu ul li{
     list-style-type: none;
     display: inline-block;
+    display:flex;
 }
 
 #button{
