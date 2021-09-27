@@ -6,10 +6,40 @@ body{
 #menu{
     background: black;
     height: 30px;
-    color: white;
+    display:inline-block;
 }
 
-#menu ul li{
+#menu ul{
     list-style-type: none;
     text-decoration: none;
+    display:inline-block;
+    list-style: none;
+    align-items: left;
+    width: 15%;
+    padding:0;
+    margin:0;
 }
+
+.button{
+color:white;
+letter-spacing: 0,5px;
+font-family: Impact;
+font-size: 3px;
+text-align: center;
+}
+
+.button:after{
+    bottom: 0;
+    content: " ";
+    display: inline-block;
+    height: 2px;
+    left: 50%;
+    position: absolute;
+    background: orange;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
+}
+.button:hover:after { 
+    width: 100%; 
+    left: 0; 
+  }
