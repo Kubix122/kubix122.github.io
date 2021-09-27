@@ -12,15 +12,16 @@ body{
     vertical-align: middle;
 }
 
-a{
-    text-decoration: none;
-}
+a{ text-decoration: none; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
 .menu ul li{
     list-style-type: none;
     display: inline-block;
-    display:flex;
+}
+.menu ul{
+    float:left;
+    align-items: left;
 }
 
 #button{
