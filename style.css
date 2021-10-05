@@ -146,6 +146,7 @@ a:hover { text-decoration: none; }
 }
 .tabelkalewo{
     width: 65%;
+    float:left;
     border: 1px solid white;
 }
 .lewo-gora{
