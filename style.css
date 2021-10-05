@@ -147,7 +147,6 @@ a:hover { text-decoration: none; }
 .tabelkalewo{
     width: 65%;
     float:left;
-    border: 1px solid white;
 }
 .lewo-gora{
     width:100%;
@@ -161,7 +160,6 @@ a:hover { text-decoration: none; }
 .tabelkaprawo{
     width: 35%;
     float:left;
-    border: 1px solid white;
 }
 .prawo-gora{
     width:100%;
