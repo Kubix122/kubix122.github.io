@@ -141,7 +141,6 @@ a:hover { text-decoration: none; }
     float: center;
     margin-right: 0;
     margin-left: 0;
-    display:flex;
 
 }
 
@@ -162,7 +161,7 @@ a:hover { text-decoration: none; }
     width:70%;
     height:250px;
     float:left;
-    background: #00FF00;
+    background: #FFFF00;
     color: white;
 }
 .tabelkaprawo2{
