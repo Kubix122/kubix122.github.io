@@ -58,7 +58,7 @@ a:hover { text-decoration: none; }
     color: white;
     list-style:none;
     font-family: Georgia;
-    letter-spacing: 0.3em;
+    letter-spacing: 0.1em;
 }
 .skills li{
     margin: 20px 0;
