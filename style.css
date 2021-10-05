@@ -134,3 +134,33 @@ a:hover { text-decoration: none; }
         width:30%;
     }
 }
+
+.tabelka{
+    padding: 200px;
+    float: center;
+}
+
+.tabelkagora{
+    width:70%;
+    height: 70%;
+    float: left;
+    background: #0000FF;
+}
+.tabelkaprawo1{
+    width:30%;
+    height:30%;
+    float:left;
+    background: #00FF00;
+}
+.tabelkaprawo1{
+    width:30%;
+    height:70%;
+    float:left;
+    background: #FF0000;
+}
+.tabelkadol{
+    width:100%;
+    height:30%;
+    float:left;
+    background: #FF00FF;
+}
