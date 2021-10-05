@@ -158,6 +158,13 @@ a:hover { text-decoration: none; }
     background: #00FF00;
     color: white;
 }
+.tabelkasrodek{
+    width:70%;
+    height:250px;
+    float:left;
+    background: #00FF00;
+    color: white;
+}
 .tabelkaprawo2{
     width:30%;
     height:200px;
