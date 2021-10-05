@@ -142,7 +142,7 @@ a:hover { text-decoration: none; }
     margin: 0 auto;
     border: 1px solid white;
     color:white;
-    display:block
+    display:inline-block;
 
 }
 .tabelkalewo{
