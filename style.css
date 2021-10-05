@@ -156,7 +156,6 @@ a:hover { text-decoration: none; }
     float:left;
     background: #00FF00;
     color: white;
-    position:absolute;
 }
 .tabelkaprawo2{
     width:30%;
@@ -164,7 +163,6 @@ a:hover { text-decoration: none; }
     float:left;
     background: #FF0000;
     color: white;
-    position:absolute;
 }
 .tabelkadol{
     width:100%;
