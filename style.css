@@ -148,7 +148,6 @@ a:hover { text-decoration: none; }
     background: #0000FF;
     color: white;
     height: 100px;
-    display:inline;
 }
 .tabelkaprawo1{
     width:30%;
@@ -156,7 +155,6 @@ a:hover { text-decoration: none; }
     float:left;
     background: #00FF00;
     color: white;
-    display:inline;
 }
 .tabelkaprawo2{
     width:30%;
@@ -164,7 +162,6 @@ a:hover { text-decoration: none; }
     float:left;
     background: #FF0000;
     color: white;
-    display:inline;
 }
 .tabelkadol{
     width:100%;
