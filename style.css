@@ -155,6 +155,7 @@ a:hover { text-decoration: none; }
 .lewo-srodek{
     width:100%;
     height:250px;
+    border: 1px solid white;
 }
 .tabelkaprawo{
     width: 35%;
