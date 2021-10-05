@@ -88,7 +88,7 @@ a:hover { text-decoration: none; }
 }
 
 .js{
-    width: 120%;
+    width: 10%;
     animation: js 4s;
 }
 
@@ -120,7 +120,7 @@ a:hover { text-decoration: none; }
         width:0%;
     }
     100%{
-        width:120%;
+        width:10%;
     }
 }
 
