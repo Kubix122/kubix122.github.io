@@ -137,6 +137,9 @@ a:hover { text-decoration: none; }
 
 .tabelka{
     width: 1000px;
+    text-align: center;
+    right: auto;
+    left: auto;
 
 }
 
