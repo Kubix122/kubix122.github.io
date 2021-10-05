@@ -136,35 +136,35 @@ a:hover { text-decoration: none; }
 }
 
 .tabelka{
-    width: 50%;
-    
+    width: 1000px;
+
 }
 
 .tabelkagora{
     width:70%;
-    height: 70%;
-    float: left;
     background: #0000FF;
     color: white;
+    height: 100px;
 }
 .tabelkaprawo1{
     width:30%;
-    height:30%;
+    height:150px;
     float:left;
     background: #00FF00;
     color: white;
 }
 .tabelkaprawo1{
     width:30%;
-    height:70%;
+    height:250px;
     float:left;
     background: #FF0000;
     color: white;
 }
 .tabelkadol{
     width:100%;
-    height:30%;
+    height:100;
     float:left;
     background: #FF00FF;
     color: white;
+    clear:both;
 }
