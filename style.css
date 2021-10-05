@@ -140,6 +140,7 @@ a:hover { text-decoration: none; }
     text-align: center;
     right: auto;
     left: auto;
+    display:flex;
 
 }
 
