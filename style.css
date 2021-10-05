@@ -58,7 +58,7 @@ a:hover { text-decoration: none; }
     color: white;
     list-style:none;
     font-family: fantasy;
-    letter-spacing: 2em;
+    letter-spacing: 0.3em;
 }
 .skills li{
     margin: 20px 0;
