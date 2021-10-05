@@ -137,6 +137,7 @@ a:hover { text-decoration: none; }
 
 .tabelka{
     width: 500px;
+    height: 450px;
     text-align: center;
     float: center;
     margin-right: 0;
@@ -178,4 +179,37 @@ a:hover { text-decoration: none; }
     background: #FF00FF;
     color: white;
     clear:both;
+}
+
+.cale{
+    width: 500px;
+    height: 700px;
+}
+.j{
+    width: 70%;
+    float: left;
+}
+.j-1{
+    height: 300px;
+    width: 100%;
+    background-color: #00F0FF
+}
+.j-2{
+    height: 400px;
+    width: 100%;
+    background-color: #FF0000;
+}
+.d{
+    width: 30%;
+    float: left;
+}
+.d-1{
+    height: 300px;
+    width: 100%;
+    background-color: #0FF00F;
+}
+.d-2{
+    height: 400px;
+    width: 100%;
+    background-color: #FFF00F
 }
