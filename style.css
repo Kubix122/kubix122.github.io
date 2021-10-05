@@ -136,11 +136,12 @@ a:hover { text-decoration: none; }
 }
 
 .tabelka{
-    width: 1000px;
+    width: 500px;
     text-align: center;
-    right: auto;
-    left: auto;
-    display:block;
+    float: center;
+    margin-right: 0;
+    margin-left: 0;
+    display:flex;
 
 }
 
