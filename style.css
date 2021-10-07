@@ -59,6 +59,7 @@ a:hover { text-decoration: none; }
     list-style:none;
     font-family: 'Open Sans', sans-serif;  
     letter-spacing: 0.1em;
+    display:inline-block;
 }
 .skills li{
     margin: 20px 0;
